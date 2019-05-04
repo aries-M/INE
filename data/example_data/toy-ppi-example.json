@@ -1,0 +1,45 @@
+{
+    "directed": false, 
+    "graph": 
+    {"name": "disjoint_union( ,  )"}, 
+    "nodes": [
+        {
+            "test": false, 
+            "id": 0, 
+            "feature": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 1.0, 0.0, 0.0, 0.0, 0.0], 
+            "val": false, 
+            "label": [1, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0]
+        }, 
+        {
+            "test": true, 
+            "id": 14754, 
+            "feature": [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 1.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0], 
+            "val": false, 
+            "label": [1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 1, 1, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 0, 0, 1, 0, 0, 1, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0]
+        }
+            ], 
+    "links": [
+        {"test_removed": false, "train_removed": false, "target": 800, "source": 0}, 
+        {"test_removed": false, "train_removed": false, "target": 2593, "source": 0}, 
+        {"test_removed": false, "train_removed": false, "target": 803, "source": 0}, 
+        {"test_removed": false, "train_removed": false, "target": 708, "source": 0}, 
+        {"test_removed": false, "train_removed": false, "target": 3110, "source": 0}, 
+        {"test_removed": false, "train_removed": false, "target": 1819, "source": 0}, 
+        {"test_removed": false, "train_removed": false, "target": 3145, "source": 0}, 
+        {"test_removed": false, "train_removed": false, "target": 160, "source": 0}, 
+        {"test_removed": false, "train_removed": false, "target": 2768, "source": 0}, 
+        {"test_removed": false, "train_removed": false, "target": 688, "source": 0}, 
+        {"test_removed": false, "train_removed": false, "target": 1246, "source": 0}, 
+        {"test_removed": false, "train_removed": false, "target": 2357, "source": 0}, 
+        {"test_removed": false, "train_removed": false, "target": 2745, "source": 0}, 
+        {"test_removed": false, "train_removed": false, "target": 3001, "source": 0}, 
+        {"test_removed": false, "train_removed": false, "target": 1882, "source": 0}, 
+        {"test_removed": false, "train_removed": false, "target": 635, "source": 0}, 
+        {"test_removed": false, "train_removed": false, "target": 636, "source": 0}, 
+        {"test_removed": false, "train_removed": false, "target": 158, "source": 0}, 
+        {"test_removed": false, "train_removed": false, "target": 571, "source": 0}, 
+        {"test_removed": false, "train_removed": false, "target": 15, "source": 1}, 
+        {"test_removed": false, "train_removed": false, "target": 63, "source": 1}, 
+        {"test_removed": false, "train_removed": false, "target": 8, "source": 2}
+    ]
+} 
